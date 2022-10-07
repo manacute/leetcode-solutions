@@ -14,6 +14,7 @@ My solutions to Leetcode problems. Currently completing [Neetcode 150](https://n
 |  217 | Contains Duplicate     | [Python3](./neetcode-150/0217-contains-duplicate/solution.py)     |
 |  242 | Valid Anagram          | [Python3](./neetcode-150/0242-valid-anagram/solution.py)          |
 |  704 | Binary Search          | [Python3](./neetcode-150/0704-binary-search/solution.py)          |
+|  881 | Boats to Save People   | [Python3](./neetcode-150/0881-boats-to-save-people/solution.py)   |
 
 <!-- New row template
 |      | | |
