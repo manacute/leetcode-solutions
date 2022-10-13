@@ -6,6 +6,7 @@ My solutions to Leetcode problems. Currently completing [Neetcode 150](https://n
 |    1 | Two Sum                | [Python3](./neetcode-150/0001-two-sum/solution.py)                |
 |   20 | Valid Parentheses      | [Python3](./neetcode-150/0020-valid-parentheses/solution.py)      |
 |   21 | Merge Two Sorted Lists | [Python3](./neetcode-150/0021-merge-two-sorted-lists/solution.py) |
+|   42 | Trapping Rain Water    | [Python3](./neetcode-150/0042-trapping-rain-water/solution.py)    |
 |  104 | Maximum Depth of Binary Tree | [Python3](./neetcode-150/0104-maximum-depth-of-binary-tree/solution.py) |
 |  121 | Best Time to Buy and Sell Stock | [Python3](./neetcode-150/0121-best-time-to-buy-and-sell-stock/solution.py) |
 |  125 | Valid Palindrome       | [Python3](./neetcode-150/0125-valid-palindrome/solution.py)       |
